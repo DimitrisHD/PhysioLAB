@@ -24,5 +24,22 @@ namespace PhysioProject2
         {
             InitializeComponent();
         }
+
+        private void SearchTxt_GotFocus(object sender, RoutedEventArgs e)
+        {
+            SearchTxt.Text = "";
+        }
+
+        private void addClient_Click(object sender, RoutedEventArgs e)
+        {
+            AddClient add = new AddClient();
+            add.Show();
+        }
+
+        private void ClientdataGrid_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            ClientInfo info = new ClientInfo();
+            info.Show();
+        }
     }
 }

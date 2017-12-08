@@ -15,15 +15,14 @@ using System.Windows.Shapes;
 namespace PhysioProject2
 {
     /// <summary>
-    /// Interaction logic for Window1.xaml
+    /// Interaction logic for AddClient.xaml
     /// </summary>
-    public partial class Window1 : Window
+    public partial class AddClient : Window
     {
-        public Window1()
+        public AddClient()
         {
             InitializeComponent();
+            this.SizeToContent = SizeToContent.WidthAndHeight;
         }
-
-
     }
 }

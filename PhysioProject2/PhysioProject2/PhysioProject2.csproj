@@ -54,11 +54,17 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AddClient.xaml.cs">
+      <DependentUpon>AddClient.xaml</DependentUpon>
+    </Compile>
     <Compile Include="AddProduct.xaml.cs">
       <DependentUpon>AddProduct.xaml</DependentUpon>
     </Compile>
     <Compile Include="Appointments.xaml.cs">
       <DependentUpon>Appointments.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ClientInfo.xaml.cs">
+      <DependentUpon>ClientInfo.xaml</DependentUpon>
     </Compile>
     <Compile Include="Payments.xaml.cs">
       <DependentUpon>Payments.xaml</DependentUpon>
@@ -69,14 +75,19 @@
     <Compile Include="Staff.xaml.cs">
       <DependentUpon>Staff.xaml</DependentUpon>
     </Compile>
-    <Compile Include="AddClient.xaml.cs">
-      <DependentUpon>AddClient.xaml</DependentUpon>
-    </Compile>
+    <Page Include="AddClient.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="AddProduct.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Appointments.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ClientInfo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -108,10 +119,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Staff.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="AddClient.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

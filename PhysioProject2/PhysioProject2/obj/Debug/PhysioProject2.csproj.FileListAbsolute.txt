@@ -47,3 +47,9 @@ C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug
 C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\PhysioProject2.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\PhysioProject2.exe
 C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\PhysioProject2.pdb
+C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\AddProduct.g.cs
+C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\ClientInfo.g.cs
+C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\AddClient.g.cs
+C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\AddProduct.baml
+C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\ClientInfo.baml
+C:\Users\User\Documents\GitHub\PhysioLAB\PhysioProject2\PhysioProject2\obj\Debug\AddClient.baml
